@@ -69,6 +69,25 @@ This system is the modern standard for single-line absolute block working in Ind
 Now we will simplify the above things with the help of diagrams
 
 
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/1.png" />
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/2.png" />
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/3.png" />
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/4.png" />
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/5.png" />
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/6.png" />
+
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/7.png" />
+
+<img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/8.png" />
+
+
+
 
 
 
