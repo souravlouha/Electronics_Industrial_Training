@@ -71,7 +71,11 @@ Now we will simplify the above things with the help of diagrams
 
 <img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/1.png" />
 
+In this circuit we have two inputs(Red wires) and the black wires are grounded. The output is a buzzer, when the train passed from one station towards another station the buzzer beeps indicating that the train successfully passed the station. Here also we have a dual timer ic(NE 556) The NE556 is a dual timer integrated circuit that contains two independent 555 timer circuits packed in a single 14-pin IC. It is designed to provide precise timing and oscillation functions such as time delay generation, pulse width modulation (PWM), pulse generation, sequential timing, and oscillators.
+
 <img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/2.png" />
+
+The circuit requires 25 Volt. Since we have only one input so we connected only one input and other is not connected. And the output is connected to the buzzer as shown in the above image.  
 
 <img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/3.png" />
 
@@ -81,10 +85,15 @@ Now we will simplify the above things with the help of diagrams
 
 <img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/6.png" />
 
+Now in type 1, it work indivisually in every station. When the train enters the station it sends a signal that train has enter the station. and when it leaves it sends another signal that the train has left the station. We have explained this with the helps of mobile and the red and the green lines as shown in the images.
+
+
 
 <img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/7.png" />
 
 <img width="900" height="800" src="https://github.com/souravlouha/Electronics_Industrial_Training/blob/main/tokenless%20block%20instrument/images/8.png" />
+
+Now in type 2, it works in between the two stations. When the train leaves one station it produces a beep sounds and sends it to another station to indicate that the train has successfully left the station and proceeds towards another station.
 
 
 
