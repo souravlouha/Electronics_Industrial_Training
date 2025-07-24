@@ -1,2 +1,2 @@
-gfb # Electronics_Industrial_Training
+ # Electronics_Industrial_Training
 
